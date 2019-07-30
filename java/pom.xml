@@ -38,7 +38,7 @@
     </parent>
 
     <properties>
-        <jackson.version>2.6.1</jackson.version>
+        <jackson.version>2.9.9.2</jackson.version>
         <httpasyncclient.version>4.1</httpasyncclient.version>
         <easymock.version>3.2</easymock.version>
         <slf4j-api.version>1.7.7</slf4j-api.version>
